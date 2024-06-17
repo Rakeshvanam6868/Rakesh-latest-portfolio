@@ -1,6 +1,6 @@
 export const navItems = [
   { name: "About", link: "#about" },
-  { name: "Projects", link: "" },
+  { name: "Projects", link: "#projects" },
   { name: "Skills", link: "" },
   { name: "Contact", link: "#contact" },
 ];
@@ -74,9 +74,9 @@ export const projects = [
     id: 1,
     title: "3D Solar System Planets to Explore",
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    img: "/FastGridNew.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://fast-grid-beige.vercel.app/",
   },
   {
     id: 2,
